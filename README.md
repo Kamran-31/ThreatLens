@@ -17,8 +17,8 @@
 ## 🚀 Setup & Local Execution
 
 1. **Clone the repository:**
-   git clone [https://github.com/](https://github.com/)<YOUR-USERNAME>/<YOUR-REPO-NAME>.git
-   cd <YOUR-REPO-NAME>
+   git clone [https://github.com/Kamran-31/ThreatLens.git](https://github.com/Kamran-31/ThreatLens.git)
+   cd ThreatLens
 
 2. **Install Dependencies:**
     pip install -r requirements.txt
