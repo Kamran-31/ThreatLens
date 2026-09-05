@@ -1,0 +1,11 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+
+# Local secrets & configs
+.streamlit/secrets.toml
+.env
+
+# Cloudflared / logs
+cloudflared
+logs.txt
