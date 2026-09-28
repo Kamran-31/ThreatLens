@@ -1,5 +1,5 @@
 """
-sources.py - ThreatLens Multi-Source Intelligence Aggregator
+sources.py - ThreatLens Multi-Source Intelligence Aggregator.
 Integrates VirusTotal, RDAP/WHOIS, AbuseIPDB, URLScan, Google Safe Browsing,
 Shodan, DNS resolution, and SSL/Redirect tracing.
 """
