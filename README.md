@@ -10,7 +10,6 @@
 - **Deterministic Risk Scoring**: 0–100 point algorithmic engine that calculates immutable verdicts (`SAFE`, `SUSPICIOUS`, `MALICIOUS`) independent of missing keys.
 - **Knowledge-Adaptive AI Analysis**: Multi-model Gemini cascade offering level-tailored technical breakdowns (`Beginner`, `Intermediate`, `Expert`).
 - **HTTP Redirect Tracer**: Maps multi-hop URL redirection chains to detect cloaking and obfuscated destinations.
-- **Secure Secret Architecture**: Zero hardcoded keys, safe template defaults, and full integration with Streamlit Cloud Secrets.
 
 ---
 
