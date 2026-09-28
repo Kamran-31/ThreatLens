@@ -1,7 +1,3 @@
-"""
-app.py - ThreatLens Deterministic Cybersecurity Engine
-"""
-
 from __future__ import annotations
 
 import json
